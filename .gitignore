@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+myenv/
+
+# macOS
+.DS_Store
+
+# Output directory
+json-chunks/
